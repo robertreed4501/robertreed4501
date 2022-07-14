@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This profile is currently under construction, but here's a little bit about me.  More to come later.
+
 
 - 🔭 I’m currently working on a full-stack web app to organize and track household chores using Java, Spring, Typescript, React, and MySQL.
 - 🌱 I’m currently learning React 
