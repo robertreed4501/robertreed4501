@@ -7,7 +7,7 @@ This profile is currently under construction, but here's a little bit about me. 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on anything cool
 - 🤔 I’m looking for help with Getting a Job
-- 💬 Ask me about music theory, electricity, audio engineering, vacuum tubes, 
+- 💬 Ask me about music theory, electricity, audio engineering, vacuum tubes, farming, life....
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertreed4501)
 - 😄 Pronouns: He/Him
 
@@ -69,10 +69,18 @@ This profile is currently under construction, but here's a little bit about me. 
 ### Past Projects
 
 Android Class Scheduler
+<ul>
+    <li>Built in Java, using the Room Persistence Library's SQLite database implementation and MVVM design pattern.</li>
+    <li>Create/Read/Update/Delete terms, classes, and assessments, set reminder notifications, take notes on courses and share them via messages. </li>
+</ul>
 
 JavaFX CRM
 
 JavaFX Inventory Management System
+
+Kotlin State Machine Calculator
+
+
 
 
 
