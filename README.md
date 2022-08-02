@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-This profile is currently under construction, but here's a little bit about me.  More to come later.
+I'm Robert, a father, husband, computer nerd, musician, and jack of many trades, mastering all I can.
 
 
-- 🔭 I’m currently working on a full-stack web app to organize and track household chores using Java, Spring, Typescript, React, and MySQL.
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on <a href="https://github.com/chores">chores</a> - a full-stack web app to organize and track household chores using Java, Spring, Typescript, React, and MySQL.
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on anything cool
-- 🤔 I’m looking for help with Getting a Job
+- 🤔 I’m looking for help with Finding a Job
 - 💬 Ask me about music theory, electricity, audio engineering, vacuum tubes, farming, life....
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertreed4501)
 - 😄 Pronouns: He/Him
@@ -48,6 +48,43 @@ This profile is currently under construction, but here's a little bit about me. 
     </a>
 </p>
 
+
+### Past Projects
+
+<a href="https://github.com/robertreed4501/c196">Android Class Scheduler</a>
+<ul>
+    <li>An Android app to track terms, classes, and assessments, set reminder notifications, take notes on courses and share them via messages. </li>
+    <li>Built in Java, using the Room Persistence Library's SQLite database implementation and MVVM design pattern.</li>
+    <li>Responsive design allows portrait or landscape on a wide range of android devices.</li>
+    <li>Earned an Excellence Award for Exemplary Work in Mobile Application Development from Western Governors University.</li>
+</ul>
+
+<a href="https://github.com/robertreed4501/c195">JavaFX CRM</a>
+<ul>
+    <li>A simple CRM to keep track of Appointments and allows the user to create, edit, and delete appointments and customer records.</li>
+    <li>Users can also view reports such as the number of appointments by type and month, each contact's next months' schedule, and a pie chart representing the number of appointments by customer.</li>
+    <li>Built with JavaFX using IntelliJ and SceneBuilder, MySQL backend connected through JDBC, using MVC design pattern.</li>
+    <li>Multi-language support based on users local settings, logging for sign-in attempts, form validation and error handling, search capability utilizing Java streams.</li>
+</ul>
+
+<a href="https://github.com/robertreed4501/InventoryManagementSystem">JavaFX Inventory Management System</a>
+<ul>
+    <li>An application to help organize inventory of products and the parts that compose them.</li>
+    <li>Built with JavaFX using IntelliJ and SceneBuilder.</li>
+    <li>Inheritance and Polymorphism utilized to allow tracking both in-house and outsourced parts.</li>
+    <li></li>
+</ul>
+
+
+<a href="https://github.com/robertreed4501/FSMCalculatorKotlin">Kotlin State Machine Calculator</a>
+<ul>
+    <li>Text based calculator that can take any amount of operands and add/subtract/multiply/divide with proper order of operations.</li>
+    <li>Uses State Machine design pattern, inheritance, and polymorphism to read in an arithmetic expression string and build a stack of CalcObjects, then perform operations on the operands in proper order.</li>
+    <li>Built as a take home project for a job interview in two days, had no previous experience in state machine design pattern or Kotlin.</li>
+</ul>
+
+
+
 ## 📊 My Github Stats
 
   <br/>
@@ -66,19 +103,6 @@ This profile is currently under construction, but here's a little bit about me. 
 <br/>
 
 
-### Past Projects
-
-Android Class Scheduler
-<ul>
-    <li>Built in Java, using the Room Persistence Library's SQLite database implementation and MVVM design pattern.</li>
-    <li>Create/Read/Update/Delete terms, classes, and assessments, set reminder notifications, take notes on courses and share them via messages. </li>
-</ul>
-
-JavaFX CRM
-
-JavaFX Inventory Management System
-
-Kotlin State Machine Calculator
 
 
 
