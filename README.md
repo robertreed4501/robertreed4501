@@ -42,11 +42,6 @@ I'm Robert, a father, husband, computer nerd, musician, and jack of many trades,
 <img align="left" alt="Docker" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></div><p></p><br/><br/><br/><br/>
 
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=robertreed4501&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 
 ### Past Projects
@@ -72,7 +67,6 @@ I'm Robert, a father, husband, computer nerd, musician, and jack of many trades,
     <li>An application to help organize inventory of products and the parts that compose them.</li>
     <li>Built with JavaFX using IntelliJ and SceneBuilder.</li>
     <li>Inheritance and Polymorphism utilized to allow tracking both in-house and outsourced parts.</li>
-    <li></li>
 </ul>
 
 
@@ -85,14 +79,20 @@ I'm Robert, a father, husband, computer nerd, musician, and jack of many trades,
 
 
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=robertreed4501&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   <br/>
+  <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Robert Reed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robertreed4501&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Robert Reed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertreed4501&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+</p>
 
 <br/>
 <br/>
