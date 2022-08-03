@@ -3,7 +3,7 @@
 I'm Robert, a father, husband, computer nerd, musician, and jack of many trades, mastering all I can.
 
 
-- 🔭 I’m currently working on <a href="https://github.com/chores">chores</a> - a full-stack web app to organize and track household chores using Java, Spring, Typescript, React, and MySQL.
+- 🔭 I’m currently working on <a href="https://github.com/robertreed4501/chores">chores</a> - a full-stack web app to organize and track household chores using Java, Spring, Typescript, React, and MySQL.
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on anything cool
 - 🤔 I’m looking for help with Finding a Job
